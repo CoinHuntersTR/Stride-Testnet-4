@@ -37,6 +37,11 @@ systemctl restart systemd-journald
 strided status 2>&1 | jq .SyncInfo
 ```
 
+### Cüzdan oluşturma: (not edin kaydedin)
+```
+strided keys add cüzdanismi
+```
+
 ### Faucet için; Discorda katılmayı unutmayın. ( https://discord.gg/ggQewkUa )
 
 ### Validator Olmak İçin;
