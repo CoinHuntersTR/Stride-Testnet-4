@@ -14,7 +14,7 @@
 ### Kuruluma başlayalım.
 
 ```
-wget -O stride.sh https://raw.githubusercontent.com/ArtemisDAO/Stride-Testnet-4/main/stride.sh && chmod +x stride.sh && ./stride.sh
+wget -O stride.sh https://raw.githubusercontent.com/pusulafinanslabs/Stride-Testnet-4/main/stride.sh && chmod +x stride.sh && ./stride.sh
 ```
 
 ### Log kontrol komutundan sonra log komutu tepki vermiyorsa şu komutu girip ardından yeniden log kontrol yapın.
